@@ -1,4 +1,5 @@
 # Fomo
+
 40 hr end of semester project for IS Junior Core INTEX II exercise.
 
 Worked on by Branden Clark, Kiersten Ernstorm, and Patrik Drean.
@@ -10,5 +11,6 @@ Possibly still up on http://musical-family.me if BYU hasn't turned our servers o
   which they probably haven't. HTTPS certificate expired and we don't want to renew it now,
   so don't worry, we aren't trying to steal your life when you visit.
 
---With love,
-----Branden
+**With love,**
+
+Branden
